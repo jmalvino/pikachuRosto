@@ -1,0 +1,117 @@
+
+body{    
+    padding: 0;
+    margin: 0;
+}
+
+.rosto{
+    background-color: rgb(238, 181, 8);
+    width: 600px;
+    height: 600px;
+    border-radius: 20%;
+    padding: 10px;
+}
+
+.olho{
+    width: 60px;
+    height: 60px;
+    margin-left: 150px;
+    margin-top: 150px;
+    border: 5px solid black ;
+    background-color: rgb(48, 44, 44);
+    border-radius: 50%; 
+    padding-top: 5px;  
+    padding-left: 4px; 
+    position: absolute;
+}
+
+.pupila{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;  
+    border: 4px solid black;  
+    position: absolute;
+}
+
+.olho2{
+    width: 60px;
+    height: 60px;
+    margin-left: 350px;
+    margin-top: 150px;
+    border: 5px solid black ;
+    background-color: rgb(48, 44, 44);
+    border-radius: 50%; 
+    padding-top: 5px;  
+    padding-left: 4px; 
+    position: absolute;
+}
+
+.pupila2{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;  
+    border: 4px solid black;  
+    position: absolute;
+}
+
+.bochecha{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(237, 80, 59, 0.896);
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 50px;
+    margin-top: 250px;
+    position: absolute;
+}
+
+.bochecha2{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(237, 80, 59, 0.896);
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-left: 430px;
+    margin-top: 250px;
+    position: absolute;
+}
+
+.boca{
+    width: 50px;
+    height: 30px;
+    margin-left: 255px;
+    margin-top: 330px;
+    border: 5px solid  #7d2726;
+    background-color:#db676a;
+    border-radius: 30% ; 
+    padding-top: 5px;  
+    padding-left: 4px; 
+    position: absolute;
+}
+
+.nariz{
+    width: 30px;
+    height: 30px;
+    margin-left: 260px;
+    margin-top: 250px;
+    border: 5px solid  black;
+    background-color:black;
+    border-radius: 20%; 
+    padding-top: 5px;  
+    padding-left: 4px; 
+    transform: rotate(45deg);
+    position: absolute;
+}
+
+.base-nariz{
+    width: 60px;
+    height: 50px;
+    margin-left: 250px;
+    margin-top: 216px;
+    background-color:rgb(238, 181, 10);
+    padding-top: 5px;  
+    padding-left: 4px; 
+    position: absolute;
+}
